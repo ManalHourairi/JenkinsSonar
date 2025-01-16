@@ -1,5 +1,5 @@
 com.example.client.controllers.ClientController#findAll()Ljava/util/List;
 false
-f4b5e766d6a5c9e82909a7ea9bfee34f
+d73b2cd1554145f3c73286ab02772c84
 ==
 findAll com.example.client.services.ClientService#findAll()Ljava/util/List;

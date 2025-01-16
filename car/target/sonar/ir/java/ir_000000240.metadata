@@ -1,6 +1,6 @@
 com.example.car.CarApplication#restTemplate()Lorg/springframework/web/client/RestTemplate;
 false
-4a925461620efc148e5a5be231837a1f
+b5f61ec2e048da69b60880f8e6ca45b2
 org.springframework.http.client.SimpleClientHttpRequestFactory#<init>()V
 org.springframework.http.client.SimpleClientHttpRequestFactory#instance-init#
 org.springframework.web.client.RestTemplate#<init>()V

@@ -1,7 +1,7 @@
-organization=yahyaagbi-1
-projectKey=yahyaagbi-1_gatewayrest
+organization=manalhourairi
+projectKey=manalhourairi_gateways
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.58807
-dashboardUrl=https://sonarcloud.io/dashboard?id=yahyaagbi-1_gatewayrest
-ceTaskId=AZRq8WdBAsdQy0220PN2
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq8WdBAsdQy0220PN2
+dashboardUrl=https://sonarcloud.io/dashboard?id=manalhourairi_gateways
+ceTaskId=AZRvrzC3AsdQy0220x7Y
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRvrzC3AsdQy0220x7Y

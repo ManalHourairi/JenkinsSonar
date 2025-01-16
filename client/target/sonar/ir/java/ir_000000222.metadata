@@ -1,4 +1,4 @@
 com.example.client.ClientApplication#main([Ljava/lang/String;)V
 false
-ebd58e182460b2daf93d617767e09681
+69822c85f7735d6ecfa4404f5dfad4f8
 org.springframework.boot.SpringApplication#run(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext;

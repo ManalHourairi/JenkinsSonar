@@ -1,7 +1,7 @@
-organization=yahyaagbi-1
-projectKey=yahyaagbi-1_carrest
+organization=manalhourairi
+projectKey=ManalHourairi_JenkinsSonar
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.58807
-dashboardUrl=https://sonarcloud.io/dashboard?id=yahyaagbi-1_carrest
-ceTaskId=AZRq7VhW3NU7KFhDNelJ
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRq7VhW3NU7KFhDNelJ
+dashboardUrl=https://sonarcloud.io/dashboard?id=ManalHourairi_JenkinsSonar
+ceTaskId=AZRvrPdI768UrkA1Y1S1
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZRvrPdI768UrkA1Y1S1
